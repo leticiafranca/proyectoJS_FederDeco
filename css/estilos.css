@@ -1,0 +1,58 @@
+nav .navbar {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand img {
+  margin-top: -1rem;
+}
+
+#svgcarro {
+  border-radius: 2rem;
+  vertical-align: middle;
+  margin-right: 2rem;
+  margin-top: 1.5rem;
+}
+
+.hand {
+  margin: 2rem;
+}
+
+.form-control {
+  width: 4rem;
+}
+
+.productos {
+  padding: 3rem;
+  background-color: #f6f2f0;
+}
+
+h1 {
+  padding-bottom: 4rem;
+}
+
+h3 {
+  margin: 1rem 0 1rem 0;
+}
+
+button {
+  margin: 0.5rem 0 2rem 0;
+}
+
+.frase {
+  margin: 5rem;
+}
+
+footer {
+  background-color: #eee8e4;
+  padding: 5rem;
+}
+
+.log-pie {
+  padding-bottom: 2rem;
+}
+
+.modal-body img {
+  width: 100%;
+  height: auto;
+}
